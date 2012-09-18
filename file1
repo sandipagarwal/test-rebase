@@ -1,2 +1,2 @@
-test rebase : first commit on develop branch
-commit A
+test rebase : third commit on develop branch
+commit C
